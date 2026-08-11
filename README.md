@@ -8,7 +8,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charanya-p-266b82238/)
 [![Portfolio Repos](https://img.shields.io/badge/Portfolio-View_Projects-56D364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharanyaPonnala?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
@@ -213,7 +213,7 @@ Open-source lakehouse reference platform — Spark, Delta Lake, Airflow, dbt, da
 
 Open to conversations on **data platform architecture**, **AI-enabled data engineering**, and **lakehouse design**.
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charanya-p-266b82238/)
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CharanyaPonnala&color=56D364&style=for-the-badge&label=PROFILE+VIEWS)
