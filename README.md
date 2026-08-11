@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=Charanya%20Ponnala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Data%20Engineer%20%7C%20Lakehouse%20%26%20AI-Enabled%20Data%20Platforms&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:56D364&height=220&section=header&text=Charanya%20Ponnala&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Lead%20Data%20Engineer%20%7C%20Lakehouse%20%26%20AI-Enabled%20Data%20Platforms&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=00C9A7&center=true&vCenter=true&width=600&height=30&lines=Building+cloud-scale+lakehouses;Databricks+%2B+Spark+%2B+Delta+Lake;Wiring+AI+agents+into+data+quality;9%2B+years+of+trusted+data" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=56D364&center=true&vCenter=true&width=600&height=30&lines=Building+cloud-scale+lakehouses;Databricks+%2B+Spark+%2B+Delta+Lake;Wiring+AI+agents+into+data+quality;9%2B+years+of+trusted+data" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Portfolio Repos](https://img.shields.io/badge/Portfolio-View_Projects-00C9A7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharanyaPonnala?tab=repositories)
+[![Portfolio Repos](https://img.shields.io/badge/Portfolio-View_Projects-56D364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CharanyaPonnala?tab=repositories)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
 </div>
@@ -44,7 +44,7 @@ me = DataEngineer()
 ### 🧭 Experience
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:00C9A7,100:2C5364&height=90&section=header&text=9%2B%20Years%20in%20Data%20Engineering&fontSize=24&fontColor=ffffff&animation=fadeIn&width=500" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56D364,100:2C5364&height=90&section=header&text=9%2B%20Years%20in%20Data%20Engineering&fontSize=24&fontColor=ffffff&animation=fadeIn&width=500" />
 </div>
 
 ```text
@@ -216,8 +216,8 @@ Open to conversations on **data platform architecture**, **AI-enabled data engin
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
 [![Email](https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=CharanyaPonnala&color=00C9A7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=CharanyaPonnala&color=56D364&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:0F2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56D364,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
