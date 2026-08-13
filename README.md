@@ -22,7 +22,7 @@
 class DataEngineer:
     def __init__(self):
         self.name        = "Charanya Ponnala"
-        self.role        = "Lead Data Engineer / Architect"
+        self.role        = "Lead Data Engineer / Senior Data Engineer"
         self.experience  = "9+ years"
         self.based_in    = "Atlanta, GA"
         self.focus       = [
@@ -34,7 +34,7 @@ class DataEngineer:
 
     def currently(self):
         return "Leading data engineering for enterprise lakehouse platforms, " \
-               "and shipping AI-agent side projects on evenings & weekends 🚀"
+               "and shipping AI-agent side projects 🚀"
 
 me = DataEngineer()
 ```
@@ -44,7 +44,7 @@ me = DataEngineer()
 ### 🧭 Experience
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56D364,100:2C5364&height=90&section=header&text=9%2B%20Years%20in%20Data%20Engineering&fontSize=24&fontColor=ffffff&animation=fadeIn&width=500" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:56D364,100:2C5364&height=90&section=header&text=8%2B%20Years%20in%20Data%20Engineering&fontSize=24&fontColor=ffffff&animation=fadeIn&width=500" />
 </div>
 
 ```text
